@@ -9,6 +9,10 @@
     最终将得到VOCdevkit/VOC2007/ImageSets/Main 里面各种训练、验证、测试图片名称的txt文件
   
 3、运行根目录下的voc_annotation.py，运行前需要将classes改成你自己的classes
+   
+    此时会生成对应的2007_train.txt，每一行对应其图片位置及其真实框的位置
+    
+
 
 
 
