@@ -4,6 +4,10 @@
   
   * 2、VOCdevkit/VOC2007/JPEGImages存放了所有训练照片
 
+2、运行VOCdevkit/VOC2007/voc2yolo4.py 程序
+
+  最终将得到VOCdevkit/VOC2007/ImageSets/Main 里面主要包含了各种训练、验证、测试图片名称的txt文件
+
 
     
     
